@@ -1,0 +1,34 @@
+{
+    "listProduct": [
+        {
+            "id": 1,
+            "title": "Cruella",
+            "description": "Cruella , um filme da Disney sobre uma de suas mais icônicas vilãs",
+            "image": "../assets/images/cruella.jpg"
+        },
+        {
+            "id": 2,
+            "title": "Capitão América",
+            "description": "Filme da Marvel, contando a história de um de seus personagem mais icônicos",
+            "image": "../assets/images/capitão.jpg"
+        },
+        {
+            "id": 3,
+            "title": "Deadpool x Wolverine",
+            "description": "Filme da Marvel,com um de seus personagens mais memorável em uma aventura inesquecível pelo multiverso..",
+            "image": "../assets/images/deadpool.jpg"
+        },
+        {
+            "id": 4,
+            "title": "Capitão América",
+            "description": "Filme da Marvel, contando a história de um de seus personagem mais icônicos",
+            "image": "../assets/images/capi.png"
+        },
+        {
+            "id": 5,
+            "title": "Capitão América",
+            "description": "Filme da Marvel, contando a história de um de seus personagem mais icônicos",
+            "image": "../assets/images/capi.png"
+        }
+    ]
+}
